@@ -14,7 +14,9 @@ c(messagepub).
 
 4) Start the gen_server with your API KEY: 
 
-  messagepub:start_link("YOUR API KEY").
+<pre>
+messagepub:start_link("YOUR API KEY").
+</pre>
   
 5) Send messages using the send method. It takes three arguments: the _channel_ (aim, twitter, email, gchat, phone, sms), the _address_, and the _message_. See examples below:
 

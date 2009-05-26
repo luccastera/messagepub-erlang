@@ -1,5 +1,5 @@
 -module(messagepub).
-
+-author("luc.castera@gmail.com").
 -behaviour(gen_server).
 
 -export([start_link/1, stop/0, send/3]).
