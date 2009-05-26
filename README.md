@@ -8,7 +8,7 @@ It is very easy to use:
 
 3) Compile messagepub.erl: 
 
-<pre>  
+<pre>
 c(messagepub).
 </pre>
 
